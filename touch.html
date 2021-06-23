@@ -20,10 +20,7 @@
 {% block content %}
 	<h1 class="display-5">Log In!</h1>
 	<hr class="my-4">
-	<form method="POST">
-		{% csrf_token %}
-		{{ form|crispy }}
-		<input type="submit" class="btn btn-primary mb-2" name="submit" , value='Login'>
+	adding css
 	</form>
 	<br>
 	<a class="align-middle" href="{% url 'password_reset' %}">Forgotten Your password?</a><br>
