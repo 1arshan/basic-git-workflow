@@ -6,7 +6,6 @@ body {
     font-family: arial, sans-serif;
     font-size: 14px;
   }
-
   
   /* Applies to all <h1>...</h1> elements. */
   h1 {
@@ -34,3 +33,4 @@ body {
 <h1>My first styled page</h1>
 
 <p>Welcome to my styled pa
+  #someid { color: green; }
