@@ -6,6 +6,7 @@ body {
     font-family: arial, sans-serif;
     font-size: 14px;
   }
+
   
   /* Applies to all <h1>...</h1> elements. */
   h1 {
@@ -19,3 +20,16 @@ body {
   
   /* Applies to the element with <... id="someid"> specified. */
   #someid { color: green; }
+
+  <!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home page</a>
+  <li><a href="musings.html">Musings</a>
+  <li><a href="town.html">My town</a>
+  <li><a href="links.html">Links</a>
+</ul>
+
+<!-- Main content -->
+<h1>My first styled page</h1>
+
+<p>Welcome to my styled pa
