@@ -1,6 +1,4 @@
 this repository will show you a basic git workflow for individuals or small teams
 
 
-this line is added by another contributer and will create a merge conflict
-
-a local edit that will create a conflict with the upstream repository.
+adding new line in merge conflict branch plan to create some rukkhas
