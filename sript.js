@@ -5,7 +5,6 @@ function msg(){
  alert("Hello Javatpoint");  
 }  
 </script>  
-adding few line more to create new commit
 </head>  
 <body>  
 <p>Welcome to JavaScript</p>  
